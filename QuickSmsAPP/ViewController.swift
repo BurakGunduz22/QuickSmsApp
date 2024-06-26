@@ -10,9 +10,9 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
     var selectedTemplate: SmsTemplate?
 
     // Your Twilio credentials
-    let accountSID = "AC4abc64a715c56268b38e475b4ec92f35"
-    let authToken = "50d53ca989d04add20c4c2417e01c2b1"
-    let twilioPhoneNumber = "+17178648051"
+    let accountSID = "AC8f1cbd257d2fd995e64ac18adf23d537"
+    let authToken = "438c4d1e7256003ecb392db5b06a5a4b"
+    let twilioPhoneNumber = "+13612829156"
 
     override func viewDidLoad() {
         super.viewDidLoad()
